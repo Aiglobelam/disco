@@ -4,14 +4,21 @@
 
 |   |  Sockerkaka | Chokladkakor  |   |   |  |
 |---|---|---|---|---|---|
-| Marta Sousa Ribeiro  | 80 st | 80 st |   |   |   |
+| Marta Sousa Ribeiro  | ✅ 80 st | ✅ 80 st |   |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 
 ## Matriel
 |   | Muggar | Talrikar  | Sopsäckar  | Servetter  |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Marta Sousa Ribeiro |   |   |   | x st  |   |   |   |   |   |   |
+| Marta Sousa Ribeiro |   |   |   | x st ✅  |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+
+## Matriel (städ)
+|   | Mop | Disktrasor  | Sopsäck  |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Marta Sousa Ribeiro | ✅  |✅  |   |  |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 
