@@ -32,12 +32,12 @@ Planneringsdokument av Ellas pappa Jens Held
     ```
  
  
-|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  | Sjukvårdare |   | |
+|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:45  | Sjukvårdare |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  | ✅  | ✅ | ✅ Högtalare + iPad|   | ✅  | ✅ |   |   |   |
-| 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
+| 2 | Sebastian |   | ✅  |   |   |   |  ✅ |   |   |   |
 | 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
-| 4 | Elmer |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |  | ✅  |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -46,6 +46,26 @@ Planneringsdokument av Ellas pappa Jens Held
 | 10 |   |   |   |   |   |   |   |   |   |   |
 | 11 |   |   |   |   |   |   |   |   |   |   |
 
+
+
+#### Pynt (juligt)
+```
+Exempel, ljusslingor, färgglada lampor
+```
+
+|   |   |   |  |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Ella  |   |   |   |   |   |   |   |   |   |
+| 2 | Sebastian |   |   |   |   |   |   |   |   |   |
+| 3 | Sigge |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
+| 7 |   |   |   |   |   |   |   |   |   |   |
+| 8 |   |   |   |   |   |   |   |   |   |   |
+| 9 |   |   |   |   |   |   |   |   |   |   |
+| 10 |   |   |   |   |   |   |   |   |   |   |
+| 11 |   |   |   |   |   |   |   |   |   |   |
 
 ## Förtäring (Äta del 1) 🍭 🍰 🍫 🍬 🍿
 ```
@@ -90,7 +110,7 @@ Biljana (David),
 
 ## Materiel (artiklar)
 
-|   |   | Muggar | Talrikar  | Servetter  | Plåster |   |   |   |   |   | 
+|   |   | Muggar | Talrikar  | Servetter  | Plåster | Pynt |   |   |   |   | 
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   | ✅ (x st)  |   |   |   |  |   |   |
