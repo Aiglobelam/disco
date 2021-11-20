@@ -1,9 +1,9 @@
 # Planering Disco 10 December
 
 ## Deltagare
-|  Barn | Förälder | Mail  | Telefon  | Förälder  |    |    |
+|  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
 |---|---|---|---|---|---|---|
-| Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  |   |   |    |    |
+| Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
 |   | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 |   | Karin Nordholme  |   |   |   |    |    |
 |   | Emma Gårdsäter  |   |   |   |    |    |
