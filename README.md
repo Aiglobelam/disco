@@ -16,7 +16,7 @@
 |   |   |   |   |   |   |   |   |   |   |   |
 
 ## Matriel (städ)
-|   | Mop | Disktrasor  | Sopsäck  |   |   |   |   |   |   |   |
+|   | Mop | Disktrasa  | Sopsäck  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Marta Sousa Ribeiro | ✅  |✅  |   |  |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
