@@ -133,6 +133,9 @@ Planneringsdokument av Ellas pappa Jens Held
 
 ## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
 
+
+Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
+
 |   |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
 |---|---|---|---|---|---|---|---|
 | 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
