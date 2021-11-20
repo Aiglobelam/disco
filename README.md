@@ -10,6 +10,8 @@
 
 - [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
 
+- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning
+
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
 
 - [ ] Planering upplägget för insläpp i entré så att det inte blir köer
