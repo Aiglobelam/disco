@@ -20,7 +20,7 @@
 
 - [ ] Alla barnen i klassen ska prata om stationer/lekar till discot på nästa Mentorstimme.
 
-- [ ] Kontakta tidigare Haloween disco annordnare (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
+- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
 
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
 
@@ -36,7 +36,7 @@
    ```
 |   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  |   |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ella  |   |   |   |   |   |   |   |   |   |
+| 1 | Ella  | ✅  |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
@@ -119,7 +119,7 @@
 
 |   |  | Mopp  | Disktrasa   | Sopsäck  |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ella  |   |   |   |   |   |   |   |   |   |
+| 1 | Ella  |   | ✅  | ✅  |   |   |   |   |   |   |
 | 2 | Sebastian | ✅ | ✅ |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
