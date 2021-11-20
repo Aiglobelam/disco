@@ -9,7 +9,7 @@
 |   |   |   |   |   |   |
 
 ## Matriel
-|   | Muggar | Talrikar  | Sopsäckar  |   |   |   |   |   |   |   |
+|   | Muggar | Talrikar  | Sopsäckar  | Servetter  |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
