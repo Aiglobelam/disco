@@ -57,7 +57,7 @@
 
 ## Förtäring (Äta) 🍭 🍰 🍫 🍬 🍿
 
-|   |   | Sockerkaka  | Chokladkakor |   |   |   |   |   |   |   |
+|   |   | Sockerkaka  | Chokladkakor | Popcorn   | Godis  | Chokladbollar  |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian | ✅ 80 st   | ✅ 80 st  |   |   |   |   |   |   |   |
@@ -74,7 +74,7 @@
 
 ## Förtäring (Dricka) 🥛 🥂 🧉 🍾
 
-|   |   |   |   |   |   |   |   |   |   |
+|   |   | Juice  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
