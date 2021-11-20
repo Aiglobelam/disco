@@ -132,7 +132,7 @@
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
 | 4 |   | Emma Gårdsäter  |   |   |   |    |    |
 | 5 |   | Ivis Biljana  |   |   |   |    |    |
-| 6 | Lanya  |   |   |   |   |    |    |    |    |
+| 6 | Lanya | Anna  |   |   |   |    |    |    |    |
 | 7 |   | Lina Hultman   |   |   |   |    |    |
 | 8 |   | Marta Larsson  |   |   |   |    |    |
 | 9 |   | Sofia Klittmark   |   |   |   |    |    |
