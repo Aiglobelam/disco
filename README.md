@@ -1,5 +1,20 @@
 # Planering Disco 10 December
 
+## Förtäring
+
+|   |  Sockerkaka | Chokladkakor  |   |   |  |
+|---|---|---|---|---|---|
+| Marta Sousa Ribeiro  | 80 st | 80 st |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+
+## Matriel
+|   | Muggar | Talrikar  | Sopsäckar  |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+
 ## Deltagare
 |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
 |---|---|---|---|---|---|---|
@@ -14,18 +29,3 @@
 |   | Sofia Klittmark   |   |   |   |    |    |
 |   | Åsa Grauers  |   |   |   |    |    |
 |   |   |   |   |   |    |    |
-
-## Förtäring
-
-|   |  Sockerkaka | Chokladkakor  |   |   |  |
-|---|---|---|---|---|---|
-| Marta Sousa Ribeiro  | 80 st | 80 st |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-
-## Matriel
-| Muggar | Talrikar  | Sopsäckar  |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
