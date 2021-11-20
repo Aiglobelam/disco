@@ -42,7 +42,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
+| 9 | Samuel | ✅   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
 | 11 |   |   |   |   |   |   |   |   |   |   |
 
