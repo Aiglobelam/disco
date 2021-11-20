@@ -14,6 +14,7 @@
 | 10 |   |   |   |   |   |   |   |   |   |   |
 | 11 |   |   |   |   |   |   |   |   |   |   |
 
+- [x] Inbjudna årskullar från Hägerstenshamnens skola 3-6
 
 ## Arbetsuppgifter
 
@@ -33,7 +34,7 @@
     vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
     biljetterna för godis och dyl? 
    ```
-|   |   | Entré  |   Försäljning  | Musik  | Garderob   | Städ  | Öppna 16:00  |   |   | |
+|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  |   |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
@@ -65,9 +66,9 @@
 
 ## Förtäring (Äta) 🍭 🍰 🍫 🍬 🍿
 
-|   |   | Sockerkaka  | Chokladkakor | Popcorn   | Godis  | Chokladbollar  |   |   |   |   |
+|   |   | Sockerkaka  | Chokladkakor | Popcorn | Godis  | Chokladbollar  |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ella  |   |   |   |   |   |   |   |   |   |
+| 1 | Ella  |   |   |   | ✅ (x st påsar á 10 kr)  |   |   |   |   |   |
 | 2 | Sebastian | ✅ 80 st   | ✅ 80 st  |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
