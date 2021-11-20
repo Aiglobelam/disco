@@ -30,11 +30,11 @@
     ```
  
  
-|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  |   |   | |
+|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  | Sjukvårdare |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  | ✅  | ✅ | ✅ Högtalare + iPad|   | ✅  | ✅ |   |   |   |
 | 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
-| 3 | Sigge |   | ✅ | |   |   |   |   |   |   |
+| 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
