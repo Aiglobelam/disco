@@ -1,6 +1,6 @@
 # Planering Disco 10 December
 
-## Förtäring
+## Förtäring (Äta) 🍭 🍰 🍫 🍬 🍿
 
 |   |  Sockerkaka | Chokladkakor  |   |   |  |
 |---|---|---|---|---|---|
@@ -8,21 +8,35 @@
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 
-## Matriel
-|   | Muggar | Talrikar  | Sopsäckar  | Servetter  |   |   |   |   |   |   |
+## Förtäring (Dricka) 🥛 🥂 🧉 🍾
+
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+
+
+## Matriel (artiklar)
+
+|   | Muggar | Talrikar  | Servetter  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Marta Sousa Ribeiro |   |   |   | x st ✅  |   |   |   |   |   |   |
+| Marta Sousa Ribeiro |   |   |  x st ✅ |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 
+
 ## Matriel (städ)
+
 |   | Mop | Disktrasa  | Sopsäck  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Marta Sousa Ribeiro | ✅  |✅  |   |  |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |   |
 
-## Deltagare
+
+## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
+
 |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
 |---|---|---|---|---|---|---|
 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
