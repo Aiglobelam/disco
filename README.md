@@ -168,12 +168,12 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
 | 2 | Sebastian | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
-| 4 | Elmer | Emma Gårdsäter  |   |   |   |    |    |
+| 4 | Elmer | Emma Gårdsäter | emma.gardsater@gmail.com |   |   |    |    |
 | 5 | David | Ivis Biljana  |   |   |   |    |    |
 | 6 | Lanya | Anna  |   |   |   |    |    |    |    |
 | 7 |   | Lina Hultman   |   |   |   |    |    |
 | 8 |   | Marta Larsson  |   |   |   |    |    |
-| 9 | Samuel | Sofia Klittmark   |   |   |   |    |    |
+| 9 | Samuel | Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
 | 10 |   | Åsa Grauers  |   |   |   |    |    |
 | 11|   |   |   |   |   |    |    |
 
