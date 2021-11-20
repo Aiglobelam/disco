@@ -17,6 +17,8 @@
 
 ## Arbetsuppgifter
 
+- [ ] Alla barnen i klassen ska prata om stationer/lekar till discot på nästa Mentorstimme.
+
 - [ ] Kontakta tidigare Haloween disco annordnare (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
 
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
