@@ -24,6 +24,12 @@
     vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
     biljetterna för godis och dyl? 
    ```
+   ```
+    Vore bra att skriva på affischen att dom kommer med 20 kr till inträdet och har
+    med 10- och 5-kronor för att köpa godis/fika.
+    ```
+ 
+ 
 |   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:00  |   |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  | ✅  | ✅ | ✅ Högtalare + iPad|   | ✅  | ✅ |   |   |   |
@@ -58,11 +64,11 @@
 
 ## Förtäring (Dricka) 🥛 🥂 🧉 🍾
 
-|   |   | Juice  |   |   |   |   |   |   |   |
+|   |   | Capri SUN  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
-| 3 | Sigge |   |   |   |   |   |   |   |   |   |
+| 3 | Sigge | ✅ (100 st) |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
