@@ -17,7 +17,13 @@
 
 ## Arbetsuppgifter
 
+- [ ] Kontakta tidigare Haloween disco annordnare (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
+
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
+
+- [ ] Planering upplägget för insläpp i entré så att det inte blir köer
+
+- [ ] Ordna med växelpengar så mycket vi kan
 
 - [ ] Disco Affisch
    ```
