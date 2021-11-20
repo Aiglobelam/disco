@@ -10,6 +10,8 @@
 
 - [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
 
+- [ ] Får man låna musiutrustning i gympa salen, fråga Rulle?
+
 - [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning
 
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
@@ -81,11 +83,11 @@
 
 ## Materiel (artiklar)
 
-|   |   | Muggar | Talrikar  | Servetter  |   |   |   |   |   |   | 
+|   |   | Muggar | Talrikar  | Servetter  | Plåster |   |   |   |   |   | 
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   | ✅ (x st)  |   |   |   |  |   |   |
-| 3 | Sigge |   |   |   |   |   |   |   |   |   |
+| 3 | Sigge |   |   |   |  ✅  |    |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
