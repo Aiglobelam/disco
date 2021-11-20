@@ -19,6 +19,12 @@
 
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
 
+- [ ] Disco Affisch
+   ```
+    20- 10- och 5- kan vi kanske istället kopiera upp biljetter värda 10- eller 5- 
+    vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
+    biljetterna för godis och dyl? 
+   ```
 |   |   | Entré  |   Försäljning  | Musik  | Garderob   | Städ  | Öppna 16:00  |   |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
