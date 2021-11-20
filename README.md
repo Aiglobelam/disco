@@ -1,4 +1,4 @@
-# Disco 10 December
+# Planering Disco 10 December
 
 ## Deltagare
 |  Barn | Förälder | Mail  |   |   |
@@ -9,4 +9,16 @@
 |   | Emma Gårdsäter  |   |   |   |
 |   | Ivis Biljana  |   |   |   |
 | Lanya  |   |   |   |   |
+|   | Lina Hultman   |   |   |   |
+|   | Marta Larsson  |   |   |   |
+|   | Sofia Klittmark   |   |   |   |
+|   | Åsa Grauers  |   |   |   |
 |   |   |   |   |   |
+
+## Förtäring
+
+|   |  Sockerkaka | Chokladkakor  |   |   |  |
+|---|---|---|---|---|---|
+| Marta Sousa Ribeiro  | 80 st | 80 st |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
