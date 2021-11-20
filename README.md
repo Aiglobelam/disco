@@ -48,15 +48,22 @@ Planneringsdokument av Ellas pappa Jens Held
 
 
 ## Förtäring (Äta del 1) 🍭 🍰 🍫 🍬 🍿
+```
+Baka för försäljning och allt behöver vara märkt med innehållsförteckning. 
+```
+Marta (Sebastian), 
+Emma (Elmer), 
+Anna (Lanya), 
+Biljana (David), 
 
-|   |   | Sockerkaka  | Chokladkakor | Popcorn | Godis  | Chokladbollar  |   |   |   |   |
+|   |   | Sockerkaka  | Chokladkakor | Popcorn | Godis  | Chokladbollar  | "Bakverk"  |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   | ✅ (x st påsar á 10 kr)  |   |   |   |   |   |
 | 2 | Sebastian | ✅ 80 st   | ✅ 80 st  |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   | ✅ |   | ✅ 100 st |   |  |   |   |
-| 4 | Elmer |   |   |   |   |   |   |   |   |   |
-| 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |  ✅  |   |   |   |
+| 5 | David |   |   |   |   |   |   ✅ |   |   |   |
+| 6 | Lanya  |   |   |   |   |   |  ✅  |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
 | 9 |   |   |   |   |   |   |   |   |   |   |
