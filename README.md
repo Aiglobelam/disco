@@ -53,7 +53,7 @@ Planneringsdokument av Ellas pappa Jens Held
 Exempel, ljusslingor, färgglada lampor
 ```
 
-|   |   |   |  |   |   |   |   |   |   |   |
+|   |   | "Pynt"  |  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
