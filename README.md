@@ -9,7 +9,7 @@
 
 ## Arbetsuppgifter
 
-|   |   |   |   |   |   |   |   |   |   |
+|   | Entré  | Städ  | Försäljning  | Musik  |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
@@ -60,16 +60,16 @@
 
 ## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
 
-|  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
-|---|---|---|---|---|---|---|
-| Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
-|   | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
-|   | Karin Nordholme  |   |   |   |    |    |
-|   | Emma Gårdsäter  |   |   |   |    |    |
-|   | Ivis Biljana  |   |   |   |    |    |
-| Lanya  |   |   |   |   |    |    |    |    |
-|   | Lina Hultman   |   |   |   |    |    |
-|   | Marta Larsson  |   |   |   |    |    |
-|   | Sofia Klittmark   |   |   |   |    |    |
-|   | Åsa Grauers  |   |   |   |    |    |
-|   |   |   |   |   |    |    |
+|   |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
+|---|---|---|---|---|---|---|---|
+| 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
+| 2 |   | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
+| 3 |   | Karin Nordholme  |   |   |   |    |    |
+| 4 |   | Emma Gårdsäter  |   |   |   |    |    |
+| 5 |   | Ivis Biljana  |   |   |   |    |    |
+| 6 | Lanya  |   |   |   |   |    |    |    |    |
+| 7 |   | Lina Hultman   |   |   |   |    |    |
+| 8 |   | Marta Larsson  |   |   |   |    |    |
+| 9 |   | Sofia Klittmark   |   |   |   |    |    |
+| 10 |   | Åsa Grauers  |   |   |   |    |    |
+| 11|   |   |   |   |   |    |    |
