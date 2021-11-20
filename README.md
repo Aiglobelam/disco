@@ -20,7 +20,7 @@ Planneringsdokument av Ellas pappa Jens Held
 
 - [ ] Ordna med växelpengar så mycket vi kan
 
-- [ ] Disco Affisch
+- [ ] Disco Affisch (5. Davids Mamma Biljana)
    ```
     20- 10- och 5- kan vi kanske istället kopiera upp biljetter värda 10- eller 5- 
     vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
@@ -38,7 +38,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
 | 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -55,7 +55,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian | ✅ 80 st   | ✅ 80 st  |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   | ✅ |   | ✅ 100 st |   |  |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -72,7 +72,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge | ✅ (100 st) |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -89,7 +89,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian |   |   | ✅ (x st)  |   |   |   |  |   |   |
 | 3 | Sigge |   |   |   |  ✅  |    |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -106,7 +106,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian | ✅ | ✅ |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -123,7 +123,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
@@ -142,7 +142,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 2 | Sebastian | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
 | 4 |   | Emma Gårdsäter  |   |   |   |    |    |
-| 5 |   | Ivis Biljana  |   |   |   |    |    |
+| 5 | David | Ivis Biljana  |   |   |   |    |    |
 | 6 | Lanya | Anna  |   |   |   |    |    |    |    |
 | 7 |   | Lina Hultman   |   |   |   |    |    |
 | 8 |   | Marta Larsson  |   |   |   |    |    |
@@ -158,7 +158,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 |   |   |   |   |   |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
 | 8 |   |   |   |   |   |   |   |   |   |   |
