@@ -37,7 +37,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  | ✅  | ✅ | ✅ Högtalare + iPad|   | ✅  | ✅ |   |   |   |
 | 2 | Sebastian |   | ✅  |   |   |   |   |   |   |   |
 | 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -54,7 +54,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  |   |   |   | ✅ (x st påsar á 10 kr)  |   |   |   |   |   |
 | 2 | Sebastian | ✅ 80 st   | ✅ 80 st  |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   | ✅ |   | ✅ 100 st |   |  |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -71,7 +71,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge | ✅ (100 st) |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -88,7 +88,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   | ✅ (x st)  |   |   |   |  |   |   |
 | 3 | Sigge |   |   |   |  ✅  |    |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -105,7 +105,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  |   | ✅  | ✅  |   |   |   |   |   |   |
 | 2 | Sebastian | ✅ | ✅ |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -122,7 +122,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
@@ -141,7 +141,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
 | 2 | Sebastian | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
-| 4 |   | Emma Gårdsäter  |   |   |   |    |    |
+| 4 | Elmer | Emma Gårdsäter  |   |   |   |    |    |
 | 5 | David | Ivis Biljana  |   |   |   |    |    |
 | 6 | Lanya | Anna  |   |   |   |    |    |    |    |
 | 7 |   | Lina Hultman   |   |   |   |    |    |
@@ -157,7 +157,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   |   |   |   |   |   |   |   |
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya  |   |   |   |   |   |   |   |   |   |
 | 7 |   |   |   |   |   |   |   |   |   |   |
