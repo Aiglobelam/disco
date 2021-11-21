@@ -40,13 +40,10 @@ Planneringsdokument av Ellas pappa Jens Held
 | 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
 | 4 | Elmer |   |   |   |   |  | ✅  |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel | ✅   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
-
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
 
 #### Pynt (juligt)
@@ -61,21 +58,16 @@ Exempel, ljusslingor, färgglada lampor
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
+
 
 ## Förtäring (Äta del 1) 🍭 🍰 🍫 🍬 🍿
 ```
-Baka för försäljning och allt behöver vara märkt med innehållsförteckning. 
+Baka för försäljning och allt behöver vara märkt med innehållsförteckning.
 ```
-Marta (Sebastian), 
-Emma (Elmer), 
-Anna (Lanya), 
-Biljana (David), 
 
 |   |   | Sockerkaka  | Chokladkakor | Popcorn | Godis  | Chokladbollar  | "Bakverk"  |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -84,12 +76,10 @@ Biljana (David),
 | 3 | Sigge |   |   | ✅ |   | ✅ 100 st |   |  |   |   |
 | 4 | Elmer |   |   |   |   |   |  ✅  |   |   |   |
 | 5 | David |   |   |   |   |   |   ✅ |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |  ✅  |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |  ✅  |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
 
 ## Förtäring (Dricka) 🥛 🥂 🧉 🍾
