@@ -46,7 +46,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
 
-#### Pynt (juligt)
+#### Pynt
 ```
 Exempel, ljusslingor, färgglada lampor
 ```
