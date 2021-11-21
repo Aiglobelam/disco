@@ -41,7 +41,7 @@ Planneringsdokument av Ellas pappa Jens Held
 | 4 | Elmer |   |   |   |   |  | ✅  |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
@@ -59,7 +59,7 @@ Exempel, ljusslingor, färgglada lampor
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
@@ -77,7 +77,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 4 | Elmer |   |   |   |   |   |  ✅  |   |   |   |
 | 5 | David |   |   |   |   |   |   ✅ |   |   |   |
 | 6 | Lanya |   |   |   |   |   |  ✅  |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
@@ -92,7 +92,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Sameul|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
@@ -107,7 +107,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
@@ -122,7 +122,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
@@ -135,20 +135,22 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 ## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
 
 
-Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
-
-|   |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
+|   |  Barn | Förälder | Mail | Telefon | Förälder | Mail | Telefon   |
 |---|---|---|---|---|---|---|---|
-| 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
-| 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
-| 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
+| 1 | Ella  | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
+| 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt; martaslarsson@icloud.com |   |   |    |    |
+| 3 | Sigge | Karin Nordholme | nordholme@hotmail.com |   |   |    |    |
 | 4 | Elmer | Emma Gårdsäter | emma.gardsater@gmail.com |   |   |    |    |
-| 5 | David | Ivis Biljana |   |   |   |    |    |
-| 6 | Lanya | Anna  |   |   |   |    |    |    |    |
-| 7 | Jonas | Lina Hultman   |   |   |   |    |    |
-| 8 | Samuel | Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
-| 9 | Alvar | Åsa Grauers  |   |   |   |    |    |
-| 10|   |   |   |   |   |    |    |
+| 5 | David | Ivis Biljana | biljana.ivis@prv.se |   |   |    |    |
+| 6 | Lanya | Anna | anna_wanstrand@hotmail.com  |   |   |    |    |    |    |
+| 7 | Jona | Lina Hultman | hultmanlina@hotmail.com |   |   |    |    |
+| 8 | Samuel| Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
+| 9 | Alvar | Åsa Grauers | asagrauers@gmail.com |   |   |    |    |
+| 10|       | Catrin Söderberg | catrin.soderberg@gmail.com |   |   |    |    |
+
+**MAIL LISTA**
+
+marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;martaslarsson@icloud.com;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com
 
 
 #### TEMPLATE EMPTY TABLE
@@ -160,7 +162,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
 | 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
