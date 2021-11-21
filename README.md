@@ -8,7 +8,7 @@ Planneringsdokument av Ellas pappa Jens Held
 
 - [ ] Alla barnen i klassen ska prata om stationer/lekar till discot på nästa Mentorstimme.
 
-- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia.
+- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia. **(1. Ella, Marja)**
 
 - [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
@@ -20,7 +20,7 @@ Planneringsdokument av Ellas pappa Jens Held
 
 - [ ] Ordna med växelpengar så mycket vi kan
 
-- [ ] Disco Affisch (5. Davids Mamma Biljana)
+- [ ] Disco Affisch **(5. David, Ivis Biljana)**
 
    ```
     20- 10- och 5- kan vi kanske istället kopiera upp biljetter värda 10- eller 5- 
@@ -153,7 +153,7 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
 | 4 | Elmer | Emma Gårdsäter | emma.gardsater@gmail.com |   |   |    |    |
-| 5 | David | Ivis Biljana  |   |   |   |    |    |
+| 5 | David | Ivis Biljana |   |   |   |    |    |
 | 6 | Lanya | Anna  |   |   |   |    |    |    |    |
 | 7 | Jonas | Lina Hultman   |   |   |   |    |    |
 | 8 | Samuel | Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
