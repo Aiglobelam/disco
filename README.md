@@ -23,6 +23,8 @@ Planneringsdokument av Ellas pappa Jens Held
 
 - [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
+- [ ] Max antal personer i lokal / på discot har vi någon gräns?
+
 - [ ] Disco Affisch **(5. David, Ivis Biljana)**
 
    ```
