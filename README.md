@@ -6,19 +6,22 @@ Planneringsdokument av Ellas pappa Jens Held
 
 ## Arbetsuppgifter
 
-- [ ] Alla barnen i klassen ska prata om stationer/lekar till discot på nästa Mentorstimme.
+- [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
 
 - [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia. **(1. Ella, Marja)**
+      ```Status: Vi väntar på svar från tidigare annordnare```
 
-- [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
+- [ ] Ordna med växelpengar så mycket vi kan **(Alla)**
 
-- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning.
+- [ ] Hur mycket snacks gick det åt förra discot?
+
+- [ ] Planering upplägget för insläpp i entré så att det inte blir köer, hur många vuxna ska vi vara, ska vi ha klasslistor, osv.
 
 - [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré.
 
-- [ ] Planering upplägget för insläpp i entré så att det inte blir köer
+- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning.
 
-- [ ] Ordna med växelpengar så mycket vi kan
+- [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
 - [ ] Disco Affisch **(5. David, Ivis Biljana)**
 
