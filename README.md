@@ -8,19 +8,20 @@ Planneringsdokument av Ellas pappa Jens Held
 
 - [ ] Alla barnen i klassen ska prata om stationer/lekar till discot på nästa Mentorstimme.
 
-- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia
+- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia.
 
-- [ ] Får man låna musiutrustning i gympa salen, fråga Rulle?
+- [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
-- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning
+- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning.
 
-- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré
+- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré.
 
 - [ ] Planering upplägget för insläpp i entré så att det inte blir köer
 
 - [ ] Ordna med växelpengar så mycket vi kan
 
 - [ ] Disco Affisch (5. Davids Mamma Biljana)
+
    ```
     20- 10- och 5- kan vi kanske istället kopiera upp biljetter värda 10- eller 5- 
     vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
@@ -100,12 +101,10 @@ Biljana (David),
 | 3 | Sigge | ✅ (100 st) |   |   |   |   |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Sameul|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
 
 ## Materiel (artiklar)
@@ -117,12 +116,10 @@ Biljana (David),
 | 3 | Sigge |   |   |   |  ✅  |    |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
 
 ## Materiel (städ)
@@ -134,29 +131,16 @@ Biljana (David),
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
 
 
 ## Aktiviteter / Lekar
 
-|   |   |   |  |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ella  |   |   |   |   |   |   |   |   |   |
-| 2 | Sebastian |   |   |   |   |   |   |   |   |   |
-| 3 | Sigge |   |   |   |   |   |   |   |   |   |
-| 4 | Elmer |   |   |   |   |   |   |   |   |   |
-| 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
-| 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+... Barnen återkommer med idéer
 
 ## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
 
@@ -166,16 +150,15 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 |   |  Barn | Förälder | Mail  | Telefon  | Förälder  | Mail | Telefon   |
 |---|---|---|---|---|---|---|---|
 | 1 | Ella | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
-| 2 | Sebastian | Marta Sousa Ribeiro  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
+| 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt  |   |   |    |    |
 | 3 | Sigge | Karin Nordholme  |   |   |   |    |    |
 | 4 | Elmer | Emma Gårdsäter | emma.gardsater@gmail.com |   |   |    |    |
 | 5 | David | Ivis Biljana  |   |   |   |    |    |
 | 6 | Lanya | Anna  |   |   |   |    |    |    |    |
-| 7 |   | Lina Hultman   |   |   |   |    |    |
-| 8 |   | Marta Larsson  |   |   |   |    |    |
-| 9 | Samuel | Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
-| 10 |   | Åsa Grauers  |   |   |   |    |    |
-| 11|   |   |   |   |   |    |    |
+| 7 | Jonas | Lina Hultman   |   |   |   |    |    |
+| 8 | Samuel | Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
+| 9 | Alvar | Åsa Grauers  |   |   |   |    |    |
+| 10|   |   |   |   |   |    |    |
 
 
 #### TEMPLATE EMPTY TABLE
@@ -186,9 +169,9 @@ Elmer, Alvar, Sebastian, Sigge, Lanya, David, Ella H, Samuel och Jona
 | 3 | Sigge |   |   |   |   |   |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya  |   |   |   |   |   |   |   |   |   |
-| 7 |   |   |   |   |   |   |   |   |   |   |
-| 8 |   |   |   |   |   |   |   |   |   |   |
-| 9 | Samuel |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jonas |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
 | 11 |   |   |   |   |   |   |   |   |   |   |
