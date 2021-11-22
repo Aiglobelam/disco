@@ -50,6 +50,15 @@ Planneringsdokument av Ellas pappa Jens Held
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
+**Högtalarna Dfeldt Audioengine D5**
+```
+45W står det att de är på.
+De kan låta ganska högt men inte jättetung bas.
+Men förhoppningsvis räcker det för ett skoldisko.
+Har ni andra högtalare som ni hellre vill ha så få ni gärna ta med dem.
+```
+<img width="320" alt="Dfeldt_Audioengine_5_Vit_-_Inet_se" src="https://user-images.githubusercontent.com/6512671/142837525-df86af9a-236a-47b3-bbb3-82cfecde2ac2.png">
+
 
 #### Pynt
 ```
