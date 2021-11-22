@@ -143,7 +143,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 |   |  Barn | Förälder | Mail | Telefon | Förälder | Mail | Telefon   |
 |---|---|---|---|---|---|---|---|
 | 1 | Ella  | Marja Hjelmsted Held  | marja.h.held@outlook.com  | | Jens  | jens.held@gmail.com  | 070-557 05 32   |    
-| 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt; martaslarsson@icloud.com |   |   |    |    |
+| 2 | Sebastian | Marta Sousa Ribeiro Larsson  | marta_s_ribeiro@sapo.pt |   |   |    |    |
 | 3 | Sigge | Karin Nordholme | nordholme@hotmail.com |   |   |    |    |
 | 4 | Elmer | Emma Gårdsäter | emma.gardsater@gmail.com |   |   |    |    |
 | 5 | David | Ivis Biljana | biljana.ivis@prv.se |   |   |    |    |
@@ -155,7 +155,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 
 **MAIL LISTA**
 
-marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;martaslarsson@icloud.com;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com
+marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com
 
 
 #### TEMPLATE EMPTY TABLE
