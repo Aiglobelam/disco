@@ -88,6 +88,21 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 
 
 ## Förtäring (Dricka) 🥛 🥂 🧉 🍾
+```
+PET vs BURK (hoppas jag räknat rätt nu...)
+
+* 10 pappmuggar ca 25cl 20 kr => 2 kr st
+*  1 PET 150cl / mugg 25cl = 6 muggar per PET
+
+* 20 burk a 33cl 109 kr => 16.52 kr/l
+* 2 pet a 1,5l    32 kr => 11,97 kr/l
+
+Att servera 20 burkar kostar 109 kr
+Att servera 1 burk kostar 5,45 kr
+Att servera 6 pappmuggar läsk kostar 16 + 12 kr = 28 kr
+Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr 
+```
+
 
 |   |   | Capri SUN  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
