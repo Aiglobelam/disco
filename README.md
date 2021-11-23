@@ -6,7 +6,7 @@ Inbjudna årskullar från Hägerstenshamnens skola 3-6
 ```
 
 ## TODO
-- [ ] Boka rundvandring (*säkerhets genomgång, larm, nycklar, städning*) med Mattias, där gärna så många som möjligt av oss får deltaga.
+- [ ] Boka rundvandring (*säkerhets genomgång, larm, nycklar, städning*) med "vaktis" Mattias, där gärna så många som möjligt av oss får deltaga.
 - [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
 - [ ] Ordna med växelpengar så mycket vi kan **(Alla)**
 - [ ] Planering upplägget för insläpp i entré så att det inte blir köer, hur många vuxna ska vi vara, ska vi ha klasslistor, osv.
