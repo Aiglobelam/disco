@@ -58,6 +58,7 @@ Ingen rundvandring är ännu bokad men anmäl intresse, ju fler desto bättre.
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
+| 10 | Adrian | ✅   |   |   |   |   |   |   |   |   |
 
 
 
@@ -136,6 +137,7 @@ Exempel, ljusslingor, färgglada lampor
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
+| 10 | Adrian |   |   |   |   |   |   |   |   |   |
 
 
 
@@ -160,6 +162,7 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
+| 10 | Adrian |   |   |   |   |   | ✅ |   |   |   |
 
 
 
