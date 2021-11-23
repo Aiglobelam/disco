@@ -10,7 +10,7 @@ Inbjudna årskullar från Hägerstenshamnens skola 3-6
 - [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
 - [ ] Ordna med växelpengar så mycket vi kan **(Alla)**
 - [ ] Planering upplägget för insläpp i entré så att det inte blir köer, hur många vuxna ska vi vara, ska vi ha klasslistor, osv.
-- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré.
+- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré. Vi kommer be Jakob Hesselgren på skolan om klasslistor.
 - [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
 
