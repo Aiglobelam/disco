@@ -202,7 +202,7 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 
 ## Materiel (artiklar)
 
-|   |   | Muggar | Talrikar  | Servetter  | Plåster | Pynt |   |   |   |   | 
+|   |   | Muggar | Talrikar  | Servetter  | Plåster |  |   |   |   |   | 
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ella  |   |   |   |   |   |   |   |   |   |
 | 2 | Sebastian |   |   | ✅ (x st)  |   |   |   |  |   |   |
