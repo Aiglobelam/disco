@@ -51,7 +51,9 @@ Planneringsdokument av Ellas pappa Jens Held
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
 
-### Entré
+
+
+## Entré
 
 #### Växelkassa 💰 💵 💰 
 ```
@@ -65,7 +67,8 @@ Vi kommer att be om klasslistor att ha för att bocka av de som går in.
 ```
 
 
-### Musik
+
+## Musik
 
 **Högtalarna Dfeldt Audioengine D5**
 ```
@@ -77,7 +80,9 @@ Har ni andra högtalare som ni hellre vill ha så få ni gärna ta med dem.
 <img width="320" alt="Dfeldt_Audioengine_5_Vit_-_Inet_se" src="https://user-images.githubusercontent.com/6512671/142837525-df86af9a-236a-47b3-bbb3-82cfecde2ac2.png">
 
 
-#### Pynt
+
+
+## Pynt
 ```
 Exempel, ljusslingor, färgglada lampor
 ```
@@ -95,9 +100,11 @@ Exempel, ljusslingor, färgglada lampor
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
 
-## Förtäring (Äta del 1) 🍭 🍰 🍫 🍬 🍿
+
+## Förtäring (Äta) 🍭 🍰 🍫 🍬 🍿
 ```
 Baka för försäljning och allt behöver vara märkt med innehållsförteckning.
+Förra diskot hade 15 föräldrar bidragit och allt gick åt.
 ```
 
 |   |   | Sockerkaka  | Chokladkakor | Popcorn | Godis  | Chokladbollar  | "Bakverk"  |   |   |   |
@@ -111,6 +118,8 @@ Baka för försäljning och allt behöver vara märkt med innehållsförteckning
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
+
+
 
 
 ## Förtäring (Dricka) 🥛 🥂 🧉 🍾
@@ -143,6 +152,8 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 
 
+
+
 ## Materiel (artiklar)
 
 |   |   | Muggar | Talrikar  | Servetter  | Plåster | Pynt |   |   |   |   | 
@@ -156,6 +167,8 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
+
+
 
 
 ## Materiel (städ)
@@ -174,9 +187,14 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 | 10 |   |   |   |   |   |   |   |   |   |   |
 
 
+
+
 ## Aktiviteter / Lekar
 
 ... Barnen återkommer med idéer
+
+
+
 
 ## Deltagare 🤗 😐 🥳 😬 🤩 🙄 🤑 🤗 🥳 
 
@@ -197,6 +215,8 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 **MAIL LISTA**
 
 marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com
+
+
 
 
 #### TEMPLATE EMPTY TABLE
