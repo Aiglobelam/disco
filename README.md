@@ -1,47 +1,51 @@
+*Planneringsdokument redigeras av Ellas pappa Jens Held, hör av er till mig om ändringar se nedadn kontaktlista*
+
 # Planering Disco 10 December
-Planneringsdokument av Ellas pappa Jens Held
+```
+Inbjudna årskullar från Hägerstenshamnens skola 3-6
+```
 
-- [x] Inbjudna årskullar från Hägerstenshamnens skola 3-6
+## TODO
+- [ ] Boka rundvandring (*säkerhets genomgång, larm, nycklar, städning*) med Mattias, där gärna så många som möjligt av oss får deltaga.
+- [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
+- [ ] Ordna med växelpengar så mycket vi kan **(Alla)**
+- [ ] Planering upplägget för insläpp i entré så att det inte blir köer, hur många vuxna ska vi vara, ska vi ha klasslistor, osv.
+- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré.
+- [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
 
+
+## TODO DONE
+- [x] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia. **(1. Ella, Marja)**
+      ```Status: Svar mottaget och införda i detta dokument```
+
+- [x] Hur mycket snacks gick det åt förra discot?
+      ```Status: beskrivet i punkter nedan```
+- [x] Max antal personer i lokal / på discot har vi någon gräns?
+      ```Status: 250 st```
+ 
+ 
 ## Rundvandring och säkerhetsgenomgång
 **Kommentar från förra discot:**
 "*Mattias visade oss runt någon vecka innan.*"
 
-- [ ] Boka rundvandring med Mattias, där gärna så många som möjligt av oss får deltaga.
+```
+Ingen rundvandring är ännu bokad men anmäl intresse, ju fler desto bättre.
+```
+|   |   |   |  |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Ella  | ✅ |   |   |   |   |   |   |   |   |
+| 2 | Sebastian |   |   |   |   |   |   |   |   |   |
+| 3 | Sigge |   |   |   |   |   |   |   |   |   |
+| 4 | Elmer |   |   |   |   |   |   |   |   |   |
+| 5 | David |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 7 | Jona |   |   |   |   |   |   |   |   |   |
+| 8 | Samuel|   |   |   |   |   |   |   |   |   |
+| 9 | Alvar |   |   |   |   |   |   |   |   |   |
+
+
 
 ## Arbetsuppgifter
-
-- [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
-
-- [ ] Kontakta tidigare Haloween disco annordnare 6E (Vilgots mamma Kari Hamfors Wernolf), Celines mamma Tia. **(1. Ella, Marja)**
-      ```Status: Vi väntar på svar från tidigare annordnare```
-
-- [ ] Ordna med växelpengar så mycket vi kan **(Alla)**
-
-- [ ] Hur mycket snacks gick det åt förra discot?
-
-- [ ] Planering upplägget för insläpp i entré så att det inte blir köer, hur många vuxna ska vi vara, ska vi ha klasslistor, osv.
-
-- [ ] Fixa klasslistor för varje 3,4,5,6, från skolan att ha i entré.
-
-- [ ] Kontakta skola för säkerhets genomgång, larm, nycklar, städning.
-
-- [ ] Får man låna musikutrustning i gympa salen, fråga Rulle?
-
-- [ ] Max antal personer i lokal / på discot har vi någon gräns?
-
-- [ ] Disco Affisch
-
-   ```
-    20- 10- och 5- kan vi kanske istället kopiera upp biljetter värda 10- eller 5- 
-    vilka barnen köper vid entrén med sina stor-valör-sedlar? Sen kan de betala med
-    biljetterna för godis och dyl? 
-   ```
-   ```
-    Vore bra att skriva på affischen att dom kommer med 20 kr till inträdet och har
-    med 10- och 5-kronor för att köpa godis/fika.
-    ```
- 
  
 |   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:45  | Sjukvårdare |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -62,8 +66,10 @@ Planneringsdokument av Ellas pappa Jens Held
 Affischmakare är **(5. David, Ivis Biljana)**
 - Inbjudna årskullar från Hägerstenshamnens skola 3-6
 - MAX 250 personer i lokalerna, bör kanske stå info om det på affishen?
-
-
+```
+Vore bra att skriva på affischen att dom kommer med 20 kr till inträdet och har
+med 10- och 5-kronor för att köpa godis/fika.
+```
 
 
 ## Entré
