@@ -209,7 +209,7 @@ Att servera 1 pappmugg läsk kostar 28/6 = 4.6 kr
 | 3 | Sigge |   |   |   |  ✅  |    |   |   |   |   |
 | 4 | Elmer |   |   |   |   |   |   |   |   |   |
 | 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya |   |   |   |   |   |   |   |   |   |
+| 6 | Lanya | ✅|   |   |   |   |   |   |   |   |
 | 7 | Jona |   |   |   |   |   |   |   |   |   |
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
