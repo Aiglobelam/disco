@@ -7,6 +7,8 @@ Planneringsdokument av Ellas pappa Jens Held
 **Kommentar från förra discot:**
 "*Mattias visade oss runt någon vecka innan.*"
 
+- [ ] Boka rundvandring med Mattias, där gärna så många som möjligt av oss får deltaga.
+
 ## Arbetsuppgifter
 
 - [ ] Lekar/Tävlingar till **(Eleverna pratar om det på nästa mentorstimme)**
