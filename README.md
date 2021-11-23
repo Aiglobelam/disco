@@ -45,7 +45,7 @@ Ingen rundvandring är ännu bokad men anmäl intresse, ju fler desto bättre.
 
 
 
-## Arbetsuppgifter
+## Arbetsuppgifter (Översikt) se mer detaljerad plan nedan
  
 |   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:45  | Sjukvårdare |   | |
 |---|---|---|---|---|---|---|---|---|---|---|
