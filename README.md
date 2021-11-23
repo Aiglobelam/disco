@@ -263,10 +263,11 @@ Så det känns som att vi borde vara några fler som hjälper till än dem vi ä
 | 8 | Samuel| Sofia Klittmark | sofia.klittmark@gmail.com |   |   |    |    |
 | 9 | Alvar | Åsa Grauers | asagrauers@gmail.com |   |   |    |    |
 | 10|       | Catrin Söderberg | catrin.soderberg@gmail.com |   |   |    |    |
+| 11| Adrian | Malin| malinli@hotmail.com |   | Pappa |    |    |
 
 **MAIL LISTA**
 
-marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com
+marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;nordholme@hotmail.com;emma.gardsater@gmail.com;biljana.ivis@prv.se;anna_wanstrand@hotmail.com;hultmanlina@hotmail.com;sofia.klittmark@gmail.com;asagrauers@gmail.com;catrin.soderberg@gmail.com;malinli@hotmail.com
 
 
 
@@ -284,4 +285,4 @@ marja.h.held@outlook.com;jens.held@gmail.com;marta_s_ribeiro@sapo.pt;nordholme@h
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar |   |   |   |   |   |   |   |   |   |
 | 10 |   |   |   |   |   |   |   |   |   |   |
-| 11 |   |   |   |   |   |   |   |   |   |   |
+| 11 | Adrian  |   |   |   |   |   |   |   |   |   |
