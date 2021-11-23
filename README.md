@@ -63,7 +63,7 @@ Vi kommer kontakta Tebo på skolan för att se om han har växelkassa man kan f�
 
 #### Klasslistor 📋 📋 📋 📋
 ```
-Vi kommer att be om klasslistor att ha för att bocka av de som går in.
+Vi kommer att be Jakob Hesselgren på skolan om klasslistor att ha för att bocka av de som går in.
 ```
 
 
