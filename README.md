@@ -47,18 +47,18 @@ Ingen rundvandring är ännu bokad men anmäl intresse, ju fler desto bättre.
 
 ## Arbetsuppgifter (Översikt) se mer detaljerad plan nedan
  
-|   |   | Entré  |   Försäljning  | Musik  | Garderob | Städ  | Öppna 16:45  | Sjukvårdare |   | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ella  | ✅  | ✅ | ✅ Högtalare + iPad|   | ✅  | ✅ |   |   |   |
-| 2 | Sebastian |   | ✅  |   |   |   |  ✅ |   |   |   |
-| 3 | Sigge |   | ✅ | |   | ✅   | ✅   | ✅   |    |   |
-| 4 | Elmer |   |   |   |   |  | ✅  |   |   |   |
-| 5 | David |   |   |   |   |   |   |   |   |   |
-| 6 | Lanya |   |   |   |   |   |   |   |   |   |
-| 7 | Jona |   |   |   |   |   |   |   |   |   |
-| 8 | Samuel|   |   |   |   |   |   |   |   |   |
-| 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
-| 10 | Adrian | ✅   |   |   |   |   |   |   |   |   |
+|   |        |Entré|Försäljning| Musik| Garderob | Städ|Öppna 16:45| Sjukvårdare |   | |
+|---|--------|-----|-----------|------|----------|-----|-----------|-------------|---|---|
+| 1 | Ella   | ✅  | ✅        | ✅    |          | ✅   | ✅        |             |   |   |
+| 2 |Sebastian|    | ✅        |      |          |      | ✅       |              |   |   |
+| 3 | Sigge  |     | ✅        |      |          | ✅   | ✅       | ✅            |    |   |
+| 4 | Elmer  |     |          |       |          |     | ✅       |               |   |   |
+| 5 | David  |     |          |       |          |     |          |               |   |   |
+| 6 | Lanya  | ✅  | ✅        |      |           | ✅  |          |              |   |   |
+| 7 | Jona   |     |          |       |          |     |          |              |   |   |
+| 8 | Samuel |     |          |       |          |     |          |              |   |   |
+| 9 | Alvar  | ✅  |          |       |          |     |          |               |   |   |
+| 10| Adrian | ✅  |          |       |          |     |          |               |   |   |
 
 
 
