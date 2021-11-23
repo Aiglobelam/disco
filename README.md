@@ -109,7 +109,7 @@ Vi bör strukturera oss med minst 3 köer.
 "*Vi hade egna högtalare, men det finns något i idrottshallen (dålig koll på hur den funkar). En familj hade gjort en spotifylista och körde via en iPad (typ). Vi hade med två stycken 280 watts högtalare. Kanske inte behövs så maxat, men det blev bra.*"
 
 
-**Högtalarna Dfeldt Audioengine D5**
+**Högtalarna Dfeldt Audioengine D5** (Ellas föräldrar tar med högtalare + iPad)
 ```
 45W står det att de är på.
 De kan låta ganska högt men inte jättetung bas.
