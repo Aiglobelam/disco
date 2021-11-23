@@ -50,6 +50,23 @@ Planneringsdokument av Ellas pappa Jens Held
 | 8 | Samuel|   |   |   |   |   |   |   |   |   |
 | 9 | Alvar | ✅   |   |   |   |   |   |   |   |   |
 
+
+### Entré
+
+#### Växelkassa 💰 💵 💰 
+```
+Vid förra discot så skramlade de ihop till växel, så det är bara att vi kämpar på.
+Vi kommer kontakta Tebo på skolan för att se om han har växelkassa man kan få låna.
+```
+
+#### Klasslistor 📋 📋 📋 📋
+```
+Vi kommer att be om klasslistor att ha för att bocka av de som går in.
+```
+
+
+### Musik
+
 **Högtalarna Dfeldt Audioengine D5**
 ```
 45W står det att de är på.
